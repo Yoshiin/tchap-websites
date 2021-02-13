@@ -1,0 +1,31 @@
+.tc_ServerStatus {
+    width: 400px;
+    height: 40px;
+    background-color: lightgray;
+    border-radius: 5px;
+    -webkit-box-shadow: 1px 1px 2px 1px rgba(0,0,0,0.4);
+    box-shadow: 1px 1px 2px 1px rgba(0,0,0,0.4);
+    margin: 7px;
+}
+
+.tc_ServerStatus_block {
+    display: inline-block;
+}
+
+.tc_ServerStatus_title {
+}
+
+.tc_ServerStatus_status {
+    border-radius: 10px;
+    width: 20px;
+    height: 20px;
+    margin: 10px;
+}
+
+.tc_ServerStatus_status_ok {
+    background-color: green;
+}
+
+.tc_ServerStatus_status_ko {
+    background-color: red;
+}
