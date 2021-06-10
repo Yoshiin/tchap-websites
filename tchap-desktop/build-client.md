@@ -10,23 +10,25 @@ Cette méthode a été testée sous Debian 9 et Windows 10.
 
 ## Prérequis
 
-- [`node`](https://nodejs.org/en/) version 8.12.0 ou supérieur
+- [`node`](https://nodejs.org/en/) version 10 ou supérieur
 - [`yarn`](https://yarnpkg.com/package/yarn)
 
 ### Installation du module nativefier
-`yarn global add `[`nativefier`](https://yarnpkg.com/package/nativefier)
+`yarn global add nativefier`
 
 ## Génération du client
 Pour commencer il faut récupérer le logo de Tchap qui servira d'icône au lanceur.
 
-Le format de l’icône dépend du système cible :
+Le format de l’icône dépend du **système cible** :
 
 - Linux : `.png` disponible [ici](https://www.tchap.gouv.fr/tchap-img/tchap-logo.png)
 - windows : `.ico` disponible [ici](https://www.tchap.gouv.fr/tchap-img/tchap-logo.ico)
 
 Pour générer le client, se placer dans un répertoire contenant uniquement l'image, puis taper la commande suivante :
 
-`nativefier --name "Tchap" --icon "./tchap-logo.ico" --platform "windows" --arch "x64" --electron-version 8.3.0 --maximize --disable-context-menu --disable-dev-tools --single-instance --insecure --tray --internal-urls ".*?tchap\.gouv\.fr.*?" --app-copyright "DINUM/MinArm" "https://www.tchap.gouv.fr/"`
+``` shell
+nativefier --name "Tchap" --platform "windows" --arch "x64" --app-copyright "DINUM/MinArm" --conceal --icon "./tchap-logo.ico" --counter --insecure --internal-urls ".*?tchap\.gouv\.fr.*?" --maximize --disable-context-menu --disable-dev-tools --single-instance --tray "https://www.tchap.gouv.fr/"
+```
 
 <br />
 <br />

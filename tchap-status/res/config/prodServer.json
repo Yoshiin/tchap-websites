@@ -1,0 +1,79 @@
+{
+  "serverlist": [
+    {
+      "name": "agent.tchap.gouv.fr",
+      "url": "https://matrix.agent.tchap.gouv.fr/_matrix/identity/api/v1/info?medium=email&address=test@test.com",
+      "requestType": "rest"
+    },
+    {
+      "name": "agent.dev-durable.tchap.gouv.fr",
+      "url": "https://matrix.agent.dev-durable.tchap.gouv.fr/_matrix/identity/api/v1/info?medium=email&address=test@test.com",
+      "requestType": "rest"
+    },
+    {
+      "name": "agent.dinum.tchap.gouv.fr",
+      "url": "https://matrix.agent.dinum.tchap.gouv.fr/_matrix/identity/api/v1/info?medium=email&address=test@test.com",
+      "requestType": "rest"
+    },
+    {
+      "name": "agent.intradef.tchap.gouv.fr",
+      "url": "https://matrix.agent.intradef.tchap.gouv.fr/_matrix/identity/api/v1/info?medium=email&address=test@test.com",
+      "requestType": "rest"
+    },
+    {
+      "name": "agent.diplomatie.tchap.gouv.fr",
+      "url": "https://matrix.agent.diplomatie.tchap.gouv.fr/_matrix/identity/api/v1/info?medium=email&address=test@test.com",
+      "requestType": "rest"
+    },
+    {
+      "name": "agent.justice.tchap.gouv.fr",
+      "url": "https://matrix.agent.justice.tchap.gouv.fr/_matrix/identity/api/v1/info?medium=email&address=test@test.com",
+      "requestType": "rest"
+    },
+    {
+      "name": "agent.agriculture.tchap.gouv.fr",
+      "url": "https://matrix.agent.agriculture.tchap.gouv.fr/_matrix/identity/api/v1/info?medium=email&address=test@test.com",
+      "requestType": "rest"
+    },
+    {
+      "name": "agent.interieur.tchap.gouv.fr",
+      "url": "https://matrix.agent.interieur.tchap.gouv.fr/_matrix/identity/api/v1/info?medium=email&address=test@test.com",
+      "requestType": "rest"
+    },
+    {
+      "name": "agent.social.tchap.gouv.fr",
+      "url": "https://matrix.agent.social.tchap.gouv.fr/_matrix/identity/api/v1/info?medium=email&address=test@test.com",
+      "requestType": "rest"
+    },
+    {
+      "name": "agent.education.tchap.gouv.fr",
+      "url": "https://matrix.agent.education.tchap.gouv.fr/_matrix/identity/api/v1/info?medium=email&address=test@test.com",
+      "requestType": "rest"
+    },
+    {
+      "name": "agent.finances.tchap.gouv.fr",
+      "url": "https://matrix.agent.finances.tchap.gouv.fr/_matrix/identity/api/v1/info?medium=email&address=test@test.com",
+      "requestType": "rest"
+    },
+    {
+      "name": "agent.ssi.tchap.gouv.fr",
+      "url": "https://matrix.agent.ssi.tchap.gouv.fr/_matrix/identity/api/v1/info?medium=email&address=test@test.com",
+      "requestType": "rest"
+    },
+    {
+      "name": "agent.pm.tchap.gouv.fr",
+      "url": "https://matrix.agent.pm.tchap.gouv.fr/_matrix/identity/api/v1/info?medium=email&address=test@test.com",
+      "requestType": "rest"
+    },
+    {
+      "name": "agent.elysee.tchap.gouv.fr",
+      "url": "https://matrix.agent.elysee.tchap.gouv.fr/_matrix/identity/api/v1/info?medium=email&address=test@test.com",
+      "requestType": "rest"
+    },
+    {
+      "name": "agent.culture.tchap.gouv.fr",
+      "url": "https://matrix.agent.culture.tchap.gouv.fr/_matrix/identity/api/v1/info?medium=email&address=test@test.com",
+      "requestType": "rest"
+    }
+  ]
+}

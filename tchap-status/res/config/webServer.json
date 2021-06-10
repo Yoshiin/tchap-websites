@@ -1,0 +1,14 @@
+{
+  "serverlist": [
+    {
+      "name": "www.tchap.gouv.fr",
+      "url": "https://www.tchap.gouv.fr/themes/tchap/img/logos/tchap-logo.svg",
+      "requestType": "img"
+    },
+    {
+      "name": "www.beta.tchap.gouv.fr",
+      "url": "https://www.beta.tchap.gouv.fr/themes/tchap/img/logos/tchap-logo.svg",
+      "requestType": "img"
+    }
+  ]
+}

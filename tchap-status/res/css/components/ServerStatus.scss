@@ -1,11 +1,11 @@
 .tc_ServerStatus {
-    width: 400px;
+    width: 100%;
     height: 40px;
     background-color: lightgray;
     border-radius: 5px;
     -webkit-box-shadow: 1px 1px 2px 1px rgba(0,0,0,0.4);
     box-shadow: 1px 1px 2px 1px rgba(0,0,0,0.4);
-    margin: 7px;
+    margin-bottom: 7px;
 }
 
 .tc_ServerStatus_block {
@@ -13,13 +13,16 @@
 }
 
 .tc_ServerStatus_title {
+    position: relative;
+    top: -2px;
 }
 
 .tc_ServerStatus_status {
     border-radius: 10px;
-    width: 20px;
-    height: 20px;
-    margin: 10px;
+    width: 16px;
+    height: 16px;
+    margin: 11px 14px 0 11px;
+    border: 1px solid darkgrey;
 }
 
 .tc_ServerStatus_status_ok {
@@ -28,4 +31,8 @@
 
 .tc_ServerStatus_status_ko {
     background-color: red;
+}
+
+.tc_ServerStatus_status_w {
+    background-color: orange;
 }
