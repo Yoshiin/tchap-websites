@@ -14,7 +14,9 @@
 
 .tc_ServerStatus_title {
     position: relative;
-    top: -2px;
+    top: -21px;
+    width: 100%;
+    left: 38px;
 }
 
 .tc_ServerStatus_status {
@@ -35,4 +37,14 @@
 
 .tc_ServerStatus_status_w {
     background-color: orange;
+}
+
+.tc_ServerStatus_time {
+    position: absolute;
+    top: 4px;
+    right: 48px;
+    font-size: 11px;
+    font-style: italic;
+    color: slategrey;
+    margin-left: 6px;
 }

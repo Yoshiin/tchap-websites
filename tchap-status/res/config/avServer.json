@@ -2,87 +2,87 @@
   "serverlist": [
     {
       "name": "agent.tchap.gouv.fr",
-      "url": "https://matrix.agent.tchap.gouv.fr/_matrix/media_proxy/unstable/public_key",
+      "url": "https://matrix.agent.tchap.gouv.fr/_matrix/media_proxy/unstable/download/agent.tchap.gouv.fr/SBaDhKSzwDykkFbFfixMUrOw",
       "requestType": "rest"
     },
     {
       "name": "agent.dev-durable.tchap.gouv.fr",
-      "url": "https://matrix.agent.dev-durable.tchap.gouv.fr/_matrix/media_proxy/unstable/public_key",
+      "url": "https://matrix.agent.dev-durable.tchap.gouv.fr/_matrix/media_proxy/unstable/download/agent.dev-durable.tchap.gouv.fr/SBaDhKSzwDykkFbFfixMUrOw",
       "requestType": "rest"
     },
     {
       "name": "agent.dinum.tchap.gouv.fr",
-      "url": "https://matrix.agent.dinum.tchap.gouv.fr/_matrix/media_proxy/unstable/public_key",
+      "url": "https://matrix.agent.dinum.tchap.gouv.fr/_matrix/media_proxy/unstable/download/agent.dinum.tchap.gouv.fr/SBaDhKSzwDykkFbFfixMUrOw",
       "requestType": "rest"
     },
     {
       "name": "agent.intradef.tchap.gouv.fr",
-      "url": "https://matrix.agent.intradef.tchap.gouv.fr/_matrix/media_proxy/unstable/public_key",
+      "url": "https://matrix.agent.intradef.tchap.gouv.fr/_matrix/media_proxy/unstable/download/agent.intradef.tchap.gouv.fr/SBaDhKSzwDykkFbFfixMUrOw",
       "requestType": "rest"
     },
     {
       "name": "agent.diplomatie.tchap.gouv.fr",
-      "url": "https://matrix.agent.diplomatie.tchap.gouv.fr/_matrix/media_proxy/unstable/public_key",
+      "url": "https://matrix.agent.diplomatie.tchap.gouv.fr/_matrix/media_proxy/unstable/download/agent.diplomatie.tchap.gouv.fr/SBaDhKSzwDykkFbFfixMUrOw",
       "requestType": "rest"
     },
     {
       "name": "agent.justice.tchap.gouv.fr",
-      "url": "https://matrix.agent.justice.tchap.gouv.fr/_matrix/media_proxy/unstable/public_key",
+      "url": "https://matrix.agent.justice.tchap.gouv.fr/_matrix/media_proxy/unstable/download/agent.justice.tchap.gouv.fr/SBaDhKSzwDykkFbFfixMUrOw",
       "requestType": "rest"
     },
     {
       "name": "agent.agriculture.tchap.gouv.fr",
-      "url": "https://matrix.agent.agriculture.tchap.gouv.fr/_matrix/media_proxy/unstable/public_key",
+      "url": "https://matrix.agent.agriculture.tchap.gouv.fr/_matrix/media_proxy/unstable/download/agent.agriculture.tchap.gouv.fr/SBaDhKSzwDykkFbFfixMUrOw",
       "requestType": "rest"
     },
     {
       "name": "agent.interieur.tchap.gouv.fr",
-      "url": "https://matrix.agent.interieur.tchap.gouv.fr/_matrix/media_proxy/unstable/public_key",
+      "url": "https://matrix.agent.interieur.tchap.gouv.fr/_matrix/media_proxy/unstable/download/agent.interieur.tchap.gouv.fr/SBaDhKSzwDykkFbFfixMUrOw",
       "requestType": "rest"
     },
     {
       "name": "agent.social.tchap.gouv.fr",
-      "url": "https://matrix.agent.social.tchap.gouv.fr/_matrix/media_proxy/unstable/public_key",
+      "url": "https://matrix.agent.social.tchap.gouv.fr/_matrix/media_proxy/unstable/download/agent.social.tchap.gouv.fr/SBaDhKSzwDykkFbFfixMUrOw",
       "requestType": "rest"
     },
     {
       "name": "agent.education.tchap.gouv.fr",
-      "url": "https://matrix.agent.education.tchap.gouv.fr/_matrix/media_proxy/unstable/public_key",
+      "url": "https://matrix.agent.education.tchap.gouv.fr/_matrix/media_proxy/unstable/download/agent.education.tchap.gouv.fr/SBaDhKSzwDykkFbFfixMUrOw",
       "requestType": "rest"
     },
     {
       "name": "agent.finances.tchap.gouv.fr",
-      "url": "https://matrix.agent.finances.tchap.gouv.fr/_matrix/media_proxy/unstable/public_key",
+      "url": "https://matrix.agent.finances.tchap.gouv.fr/_matrix/media_proxy/unstable/download/agent.finances.tchap.gouv.fr/SBaDhKSzwDykkFbFfixMUrOw",
       "requestType": "rest"
     },
     {
       "name": "agent.ssi.tchap.gouv.fr",
-      "url": "https://matrix.agent.ssi.tchap.gouv.fr/_matrix/media_proxy/unstable/public_key",
+      "url": "https://matrix.agent.ssi.tchap.gouv.fr/_matrix/media_proxy/unstable/download/agent.ssi.tchap.gouv.fr/SBaDhKSzwDykkFbFfixMUrOw",
       "requestType": "rest"
     },
     {
       "name": "agent.pm.tchap.gouv.fr",
-      "url": "https://matrix.agent.pm.tchap.gouv.fr/_matrix/media_proxy/unstable/public_key",
+      "url": "https://matrix.agent.pm.tchap.gouv.fr/_matrix/media_proxy/unstable/download/agent.pm.tchap.gouv.fr/SBaDhKSzwDykkFbFfixMUrOw",
       "requestType": "rest"
     },
     {
       "name": "agent.elysee.tchap.gouv.fr",
-      "url": "https://matrix.agent.elysee.tchap.gouv.fr/_matrix/media_proxy/unstable/public_key",
+      "url": "https://matrix.agent.elysee.tchap.gouv.fr/_matrix/media_proxy/unstable/download/agent.elysee.tchap.gouv.fr/SBaDhKSzwDykkFbFfixMUrOw",
       "requestType": "rest"
     },
     {
       "name": "agent.culture.tchap.gouv.fr",
-      "url": "https://matrix.agent.culture.tchap.gouv.fr/_matrix/media_proxy/unstable/public_key",
+      "url": "https://matrix.agent.culture.tchap.gouv.fr/_matrix/media_proxy/unstable/download/agent.culture.tchap.gouv.fr/SBaDhKSzwDykkFbFfixMUrOw",
       "requestType": "rest"
     },
     {
       "name": "i.tchap.gouv.fr",
-      "url": "https://matrix.i.tchap.gouv.fr/_matrix/media_proxy/unstable/public_key",
+      "url": "https://matrix.i.tchap.gouv.fr/_matrix/media_proxy/unstable/download/i.tchap.gouv.fr/SBaDhKSzwDykkFbFfixMUrOw",
       "requestType": "rest"
     },
     {
       "name": "e.tchap.gouv.fr",
-      "url": "https://matrix.e.tchap.gouv.fr/_matrix/media_proxy/unstable/public_key",
+      "url": "https://matrix.e.tchap.gouv.fr/_matrix/media_proxy/unstable/download/e.tchap.gouv.fr/SBaDhKSzwDykkFbFfixMUrOw",
       "requestType": "rest"
     }
   ]
