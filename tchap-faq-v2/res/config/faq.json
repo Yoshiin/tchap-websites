@@ -1,0 +1,30 @@
+{
+  "sections": [
+    {
+      "name": "Compte",
+      "questions": [
+        {
+          "q": "Quelles sont les conditions pour s’inscrire ?",
+          "a": "Tchap est utilisable depuis deux types de comptes, les comptes agents et les comptes externes.\nPour disposer d’un compte agent, vous devez accéder à une adresse électronique nominative professionnelle, et le domaine de votre entité administrative doit être ouvert à Tchap (par exemple « @modernisation.gouv.fr »).\nPour disposer d’un compte externe, vous devez avant votre inscription avoir été invité par une personne disposant d’un compte « agent »."
+        },
+        {
+          "q": "Quelle application utiliser, sur quel équipement ?",
+          "a": "Vous pouvez utiliser un ordinateur disposant d’un accès internet à https://www.tchap.gouv.fr, avec un navigateur Chrome, Firefox, ou Safari.\nVous pouvez aussi utiliser un smartphone Android ou un iPhone en y installant l’application mobile « Tchap » depuis les magasins Google Play et AppStore ou magasins privés professionnels."
+        }
+      ]
+    },
+    {
+      "name": "Converser",
+      "questions": [
+        {
+          "q": "Qu’est-ce qu’une conversation ?",
+          "a": "Une conversation est un groupe d’échange (discussion ou salon) dont les participants partagent une liste de messages présentés par ordre chronologique et contenant du texte, des images ou des fichiers."
+        },
+        {
+          "q": "Quelle est la différence entre une discussion (dialogue) et un salon ?",
+          "a": "Tchap distingue deux types de conversations : les dialogues entre deux personnes (discussions), représentés dans un cercle rond, et les salons publics ou privés entre 2 ou plusieurs personnes, représentés dans un hexagone."
+        }
+      ]
+    }
+  ]
+}

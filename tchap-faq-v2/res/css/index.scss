@@ -1,0 +1,24 @@
+@import "components/App";
+@import "components/TopBar";
+@import "themes/dark-theme";
+@import "themes/light-theme";
+
+html, body {
+    width: 100%;
+    margin: 0;
+    font-family: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  background-color: var(--body-bg-color);
+}
+
+#root {
+  background-color: var(--bg-color);
+  margin: 0 auto 0 auto;
+}
+
+.icon-color {
+  color: var(--icon-color);
+}
